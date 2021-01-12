@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherAppWithVolley</string>
+    <string name="sehirbutton">Select City</string>
+    <string name="sicaklik">TEMPERATURE</string>
+    <string name="hissedilensicaklik">FELT TEMPERATURE</string>
+    <string name="aciklama">DESCRIPTION</string>
+    <string name="sehiradi">CİTY NAME</string>
+</resources>
